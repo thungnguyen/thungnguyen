@@ -69,7 +69,7 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:hung.itdeveloper@example.com"><img src="https://img.shields.io/badge/Email-hung.itdeveloper%40example.com-red?style=flat-square&logo=gmail" alt="Email"/></a>
+  <a href="mailto:thanhhungnguyen8204@gmail.com"><img src="https://img.shields.io/badge/Email-hung.itdeveloper%40example.com-red?style=flat-square&logo=gmail" alt="Email"/></a>
   <a href="https://www.linkedin.com/in/hung-itdeveloper"><img src="https://img.shields.io/badge/LinkedIn-Hưng%20Đẹp%20Trai-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/></a>
 </p>
 
