@@ -72,8 +72,8 @@
   <a href="mailto:thanhhungnguyen8204@gmail.com">
     <img src="https://img.shields.io/badge/Email-thanhhungnguyen8204%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"/>
   </a>
-    <a href="linkedinto:linkedin.com/in/thành-hưng-nguyễn-ab7170391">
-    <img src="linkedin.com/in/thành-hưng-nguyễn-ab7170391" alt="Likedin"/>
+  <a href="https://www.linkedin.com/in/thành-hưng-nguyễn-ab7170391" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Thành%20Hưng-blue?style=flat-square&logo=linkedin" alt="LinkedIn"/>
   </a>
 </p>
 
