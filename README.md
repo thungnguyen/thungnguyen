@@ -52,10 +52,10 @@ I approach software engineering with a product-first mindset and an unwavering d
 
 ### 📊 GitHub Analytics
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thungnguyen&show_icons=true&theme=dracula&hide_border=true&rank_icon=github" height="150" alt="GitHub Stats" />
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thungnguyen&theme=dracula&hide_border=true" height="150" alt="GitHub Streak" />
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thungnguyen&layout=compact&theme=dracula&hide_border=true" height="150" alt="Top Languages" />
+</div>
 
 <br/>
 
