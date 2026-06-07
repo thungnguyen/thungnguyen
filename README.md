@@ -1,7 +1,7 @@
 <div align="left">
 
 <a href="https://github.com/thungnguyen">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=0A66C2&center=false&vCenter=true&width=800&lines=Hi%2C+I%27m+Nguy%E1%BB%85n+Th%C3%A0nh+H%C6%B0ng+%F0%9F%91%8B;I%27m+a+Backend+Developer;Building+clean+APIs+%26+architectures;Actively+seeking+Fresher+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=0A66C2&center=false&vCenter=true&width=800&lines=Hi%2C+I%27m+Nguyen+Thanh+Hung+%F0%9F%91%8B;I%27m+a+Backend+Developer;Building+clean+APIs+%26+scalable+architectures;Actively+seeking+Fresher+roles" alt="Typing SVG" />
 </a>
 
 [🌐 Portfolio](https://nguyenthanhhung-portfolio.netlify.app/) • [💼 LinkedIn](https://www.linkedin.com/in/ngthhung) • [📧 Email](mailto:thanhhungnguyen8204@gmail.com) • [🐙 GitHub](https://github.com/thungnguyen)
