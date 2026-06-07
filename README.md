@@ -1,8 +1,7 @@
 <div align="left">
 
-<a href="https://github.com/thungnguyen">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=0A66C2&center=false&vCenter=true&width=800&lines=Hi%2C+I%27m+H%C6%B0ng+%F0%9F%91%8B;Backend+.NET+Developer;System+Architecture+Enthusiast;Actively+seeking+Fresher+roles" alt="Typing SVG" />
-</a>
+# Hi, I'm Nguyễn Thành Hưng 👋
+**I'm a Backend Developer who enjoys building clean APIs, scalable architectures, and robust real-time systems.**
 
 [🌐 Portfolio](https://nguyenthanhhung-portfolio.netlify.app/) • [💼 LinkedIn](https://www.linkedin.com/in/ngthhung) • [📧 Email](mailto:thanhhungnguyen8204@gmail.com) • [🐙 GitHub](https://github.com/thungnguyen)
 
