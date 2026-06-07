@@ -1,7 +1,8 @@
 <div align="left">
 
-# Hi there, I'm Nguyễn Thành Hưng 👋
-**Backend .NET Developer | System Architecture Enthusiast | SGU IT Student**
+<a href="https://github.com/thungnguyen">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&pause=1000&color=0A66C2&center=false&vCenter=true&width=600&lines=Hi,+I'm+Hưng+👋;Backend+.NET+Developer;System+Architecture+Enthusiast;Actively+seeking+Fresher+roles" alt="Typing SVG" />
+</a>
 
 [🌐 Portfolio](https://nguyenthanhhung-portfolio.netlify.app/) • [💼 LinkedIn](https://www.linkedin.com/in/ngthhung) • [📧 Email](mailto:thanhhungnguyen8204@gmail.com) • [🐙 GitHub](https://github.com/thungnguyen)
 
@@ -51,9 +52,10 @@ I approach software engineering with a product-first mindset and an unwavering d
 ---
 
 ### 📊 GitHub Analytics
+
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=thungnguyen&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="135" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thungnguyen&theme=transparent&hide_border=true" height="135" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thungnguyen&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thungnguyen&theme=transparent&hide_border=true" height="150" alt="GitHub Streak" />
 </div>
 
 <br/>
